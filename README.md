@@ -6,7 +6,7 @@ This is a conceptual project of a Chat using WebSockets based on the tutorial [W
 
 ## Interface
 
-The interface style is not applied yet. It's possible to visualize its prototype on my [Portfolio page](https://alinepickler.github.io/web.html).
+The interface style is not applied yet. It's possible to visualize its prototype on my [Portfolio page](https://alinepickler.github.io/web.html#chat-row).
 
 ## Requirements
 
