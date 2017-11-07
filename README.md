@@ -15,4 +15,4 @@ Download and install [NodeJS](https://nodejs.org/en/). Then execute the followin
 ```bash
 node index.js
 ```
-Then visit:  http://localhost:3000
+Visit:  http://localhost:3000
