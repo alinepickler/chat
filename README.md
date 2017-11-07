@@ -13,8 +13,6 @@ The interface style is not applied yet. It's possible to visualize its prototype
 Download and install [NodeJS](https://nodejs.org/en/). Then execute the following in your terminal:
 
 ```bash
-npm run build
+node index.js
 ```
-```bash
-npm run start
-```
+Then visit:  http://localhost:3000
